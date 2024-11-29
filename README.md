@@ -48,8 +48,8 @@ A component that renders a line graph using the temperature data from the foreca
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Pratik-Bhuvad/WeatherFlow
+   cd WeatherFlow
 2. **Install dependencies:**
     npm install
 3. **Create a .env file for your OpenWeatherMap API key:**
