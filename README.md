@@ -5,14 +5,13 @@ A simple and interactive weather forecasting web application built with React. T
 ## Features
 - Displays current weather for a city or by using latitude and longitude.
 - Shows a 5-day weather forecast at noon (12:00 PM) for the selected city.
-- Interactive line graph showing temperature trends for the next 5 days.
-- Supports dynamic background images based on the weather data.
+- Interactive line graph showing temperature trends for the next 4 days.
 
 ## Technologies Used
 - React
 - OpenWeatherMap API
 - TailwindCSS (for styling)
-- Axios (or `fetch` for API calls)
+- fetch for API calls
 
 ## Components
 
